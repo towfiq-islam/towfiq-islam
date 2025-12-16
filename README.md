@@ -59,6 +59,6 @@ team-oriented environments.
 - 🔗 Website: [towfiqislam.vercel.app](https://towfiqislam.vercel.app)
 - ✉️ Email: [towfiqislam2003@gmail.com](mailto:towfiqislam2003@gmail.com)
 - 💼 LinkedIn:
-  [linkedin.com/in/towfiqislambd](https://www.linkedin.com/in/towfiq03)
+  [linkedin.com/in/towfiq03](https://www.linkedin.com/in/towfiq03)
 
 #### “Every bug teaches something. Every commit tells a story. Every project builds a developer.”

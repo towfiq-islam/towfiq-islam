@@ -57,7 +57,7 @@ team-oriented environments.
 ## 📫 How to Reach Me
 
 - 🔗 Website: [towfiqislam.vercel.app](https://towfiqislam.vercel.app)
-- ✉️ Email: [towfiqislam2003@gmail.com](mailto:towfiqislam2003@gmail.com)
+- ✉️ Email: [tofiqislam03@gmail.com](mailto:tofiqislam03@gmail.com)
 - 💼 LinkedIn:
   [linkedin.com/in/towfiq03](https://www.linkedin.com/in/towfiq03)
 
